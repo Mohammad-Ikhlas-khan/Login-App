@@ -76,6 +76,7 @@ Create a `.env` file inside the `backend/` directory with the following variable
 ```env
 PORT=5000
 JWT_SECRET=your_super_secret_jwt_key_here
+```
 ---
 
 
